@@ -1,0 +1,174 @@
+body{
+    background-image: url(http://api.thumbr.it/whitenoise-361x370.png?background=0b1206ff&noise=0dff00&density=75&opacity=65);
+}
+#ciferblat  {
+    background-color:#6BD06B;
+/*    background-image: url(5-1.png);*/
+    margin: 0;
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    position: relative;
+    box-shadow: 0px 0px 227px 75px rgba(0,0,0,0.75);
+    border-radius: 50%;
+}
+
+#sec{
+    top:0;
+    height: 100%;
+    background-color: transparent;
+    position: absolute;
+    left: 240px;
+    padding:0 8px;
+}
+#ss{
+    background-color: red;
+    height: 50%;
+    width: 4px;
+}
+
+#min{
+    top:0;
+    height: 100%;
+    background-color: transparent;
+    position: absolute;
+    left: 240px;
+    padding:0 5px;
+}
+#ms{
+    background-color: rgba(0,0,0,0.65);
+    height: 45%;
+    margin-top: 25px;
+    width: 10px;
+}
+#hour{
+    top:0;
+    height: 100%;
+    background-color: transparent;
+    position: absolute;
+    left: 240px;
+    padding:0 2px;
+}
+#hs{
+    background-color: rgba(0,0,0,0.65);
+    height: 35%;
+    margin-top: 75px;
+    width: 16px;
+}
+#center{
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 47%;
+    left: 46.8%;
+    
+}
+#date{
+    position: absolute;
+    padding: 10px;
+    font-size: 30px;
+    left: 43%;
+    top: 66%;
+}
+
+#day{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    position: absolute;
+    left: 50%;
+    top:30%;
+}
+#we{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    left: 49%;
+    background-color: transparent;
+    
+}
+#we1{
+    background-color: black;
+    height: 50%;
+    width: 2px;
+}
+
+#guyn{
+    position: fixed;
+    width: 50px;
+    height: 300px;
+    background-color: #6BD06B;
+    left: 0;
+    top: 30%;
+}
+
+#guyn div{
+    width: 28px;
+    height: 30px;
+    margin: 10px;
+    background-color: white;
+}
+
+
+
+
+.peephole{
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+    margin: 0 30px;
+    
+}
+#s1 img:hover{
+    height: 130px;
+    width: 260px;
+    position: absolute;
+    left: 24px;
+    bottom: -10px;
+}
+#s2 img:hover{
+    height: 130px;
+    width: 260px;
+    position: absolute;
+    right: 480px;
+    bottom: -10px;
+}
+#s3 img:hover{
+    height: 130px;
+    width: 260px;
+    position: absolute;
+    right: 242px;
+    bottom: -10px;
+}
+#nkarner{
+    margin: 30px auto;
+    width: 1000px;
+    border-radius: 100px;
+    position: relative;
+}
+#back, #forward{
+    display: inline-block;
+    margin-top: 35px;
+    height: 30px;
+    width: 20px;
+    padding: 0;
+    background-color: aqua;
+    position: absolute;
+    border: none;
+    background-color: transparent;
+    font-size: xx-large;
+    outline: none;
+    color: wheat;
+}
+#forward{
+    
+    right: 215px;
+}
+
+
+
+
+
