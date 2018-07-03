@@ -24,7 +24,7 @@ function clock(){
 //    var week = date.getDay();
 //    var w=(360/7)*2;
 //    we.setAttribute("style", "transform:rotate("+w+"deg);");
-    setTimeout(clock, 1);
+    setTimeout(clock, 2);
 //     ո՞նց տարբեր երկրների ժամեր ցույց տանք
 }
 
