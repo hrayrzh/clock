@@ -4,7 +4,7 @@ body{
 #ciferblat  {
     background-color:#6BD06B;
 /*    background-image: url(5-1.png);*/
-    margin: 0;
+    margin: auto;
     width: 500px;
     height: 500px;
     background-size: cover;
